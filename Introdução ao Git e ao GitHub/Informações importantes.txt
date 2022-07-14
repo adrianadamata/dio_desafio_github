@@ -1,0 +1,12 @@
+Git Bash abre o terminal extendido.
+git init (inicializa um repositório na pasta);
+git add . (atualiza todas as alterações no repositório local)
+git commit -m "Nome do Repositório"
+
+git remote add origin https://github.com/adrianadamata/dio_desafio_github.git
+
+git remote -v
+
+git push origin main
+
+"Caso haja conflito" fazer o pull, depois o push.
